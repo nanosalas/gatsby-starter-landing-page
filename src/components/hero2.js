@@ -40,7 +40,7 @@ const Header = ({ siteTitle }) => (
           width: "250px",
           top: 0,
         }}
-      >
+    >
         <img
           src={mockupFrame}
           alt="outlines of shapes and confetti in the background "
